@@ -50,7 +50,7 @@ docker compose down
 ## Step 6: 服務網址 
 - openwebui: http://$IP:8080
 - ollama api: http://$IP:11434
-- anythingllm: http://$IP:3001
+- anythingllm: http://$IP:3003
 - litell api: http://$IP:4000
 - litell ui: http://$IP:4000/ui/
 - postgres api: http://$IP:5432
